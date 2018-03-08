@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "All The Code We (Think We) Cannot Write"
-date:       2018-03-08 16:38:42 +0000
+title:      "All The Code (We Think) We Cannot Write"
+date:       2018-03-08 11:38:43 -0500
 permalink:  all_the_code_we_think_we_cannot_write
 ---
 
